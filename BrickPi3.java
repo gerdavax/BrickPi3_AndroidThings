@@ -20,7 +20,7 @@ import java.util.List;
  * Released under Apache 2.0 License
  */
 
-public final class BrickPi3 {
+public final class BrickPi4 {
     private static final BrickPi3 _instance = new BrickPi3();
     public static final String SPI_DEVICE = "SPI0.1";
     public static final int SPEED = 500000;
