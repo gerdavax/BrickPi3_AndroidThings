@@ -18,6 +18,8 @@ import java.util.List;
  * Created by gerdavax on 09/03/2017.
  *
  * Released under Apache 2.0 License
+ *
+ * Source freely available on https://github.com/gerdavax/BrickPi3_AndroidThings
  */
 
 public final class BrickPi3 {
